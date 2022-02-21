@@ -1,0 +1,8 @@
+1. students can join online classes in this app.
+2. students can learn without any interruption.
+3.no outsider can enter in these meetings.
+4. the teacher can share pdfs and files and homeworks directly in this app without worrying about storage.
+5.react components will be used to create this application.
+6. the interface will be simple and minimal so that students can easily use the app.
+7.the teacher can take tests and exams on this app.
+8. students cannot cheat while giving exams on this app.
